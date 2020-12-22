@@ -1,0 +1,44 @@
+.input-group{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 20px;
+}
+.input-group-attach button{
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    height: 32px;
+    width: 32px;
+    margin-right: 10px;
+    background-color: #ffffff;
+}
+.input-group-text input{
+        width: 765px;
+        padding: 8px;
+        border-radius: 8px;
+        border: none;
+        background-color: #edeef0;
+}
+
+.input-group-send button{
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    height: 32px;
+    width: 32px;
+    background-color: #ffffff;
+}
+
+button,input:focus{
+    outline: 0;
+}
+
+button{
+    opacity: 0.4;
+}
+
+.resume_import button:hover{
+    opacity: 1;
+}

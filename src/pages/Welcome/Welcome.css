@@ -1,0 +1,28 @@
+.welcome_page{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+} 
+
+.welcome_form{
+    padding: 30px;
+    background-color: #ffff;
+    border-radius: 10px;
+}
+
+.welcome_form-title{
+    align-items: center;
+}
+
+.welcome_form-button{
+    margin-top: 30px;
+    width: 100%;
+    height: 25%;
+    background-color: rgb(81, 224, 52);
+    outline: none;
+    opacity: 1;
+    border-radius: 5px;
+}

@@ -1,0 +1,5 @@
+.chat__memberlist{
+    height: 100%;
+    overflow-y: auto;
+    max-height: 650px;
+}

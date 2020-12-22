@@ -1,0 +1,18 @@
+.memberlist__item{
+    display: flex;
+    margin-top: 10px;
+    padding: 8px;
+}
+
+.memberlist__item-avatar img{
+    border-radius: 50px;
+    width: 45px;
+    height: 45px;
+    margin-right: 10px;
+}
+.memberlist__item-fullname{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    font-weight: 600;
+}
